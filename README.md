@@ -3,12 +3,6 @@
 <!-- Animated Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0f3460&height=200&section=header&text=Jhankar%20Bansal&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Problem%20Solver%20%7C%20System%20Design%20Enthusiast&descAlignY=60&descSize=17&descColor=8b949e&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BTech+CSE+%7C+3rd+Year+%40+NIT;Backend+Engineer+%26+DSA+Enthusiast;Building+Scalable+%26+Clean+Systems;300%2B+LeetCode+Problems+Solved;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br/>
 
 <!-- Social Badges -->
 <p>
