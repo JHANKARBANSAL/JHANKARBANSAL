@@ -35,11 +35,53 @@ currently  : Building backend systems & sharpening DSA skills
 interests  : System Design · Distributed Systems · Open Source
 ```
 
-- 🔭 Currently working on **full-stack and backend projects** with clean architecture principles
-- 🧠 Practicing **DSA & competitive programming** on LeetCode daily
-- 🏗️ Passionate about **scalable system design** and writing maintainable code
-- 💬 Ask me about **Java, Spring Boot, Data Structures, or System Design**
-- ⚡ Fun fact: I debug with `System.out.println` and I'm proud of it
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Jhankar 👋</h1>
+
+<p align="center">
+Computer Science Student • Software Development • Generative AI
+</p>
+
+## About Me
+
+- 🎓 B.Tech CSE at BML Munjal University
+- 💻 Interested in Software Engineering and AI
+- 🤖 Learning Generative AI, RAG and Agentic AI
+- 🧠 Strong focus on Java, OOP, DBMS, SQL and DSA
+- 🚀 Building real-world full-stack and AI projects
+
+## Tech Stack
+
+### Languages
+`Java` `Python` `JavaScript` `C++`
+
+### Development
+`React` `Node.js` `Express.js` `REST APIs`
+
+### Databases
+`MongoDB` `MySQL` `PostgreSQL`
+
+### AI / LLM
+`LangChain` `RAG` `Vector Databases` `LLM APIs`
+
+### Tools
+`Git` `GitHub` `Postman` `Linux`
+
+## Featured Projects
+
+### 🔄 CampusShare
+Peer-to-peer campus borrowing and lending platform with authentication,
+authorization, trust scoring and REST APIs.
+
+### 🎙️ CrackProof
+Adaptive AI interview system designed to test actual conceptual depth
+through dynamic follow-up questions.
+
+### 🤖 AI Projects
+Exploring RAG pipelines, LLM applications and agentic workflows.
 
 ---
 
