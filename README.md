@@ -12,6 +12,9 @@
   Building full-stack products, intelligent systems, and exploring scalable backend architecture.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JHANKARBANSAL&label=PROFILE+VIEWS&color=ff6b35&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 ## 👨‍💻 About Me
