@@ -4698,7 +4698,7 @@
   <!-- Info Text -->
   <g transform="translate(76, 20)">
     <text x="0" y="0" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="22" fill="#ffffff">JHANKARBANSAL</text>
-    <text x="0" y="18" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#94a3b8">Scaling infrastructure across JS Kingdom networks</text>
+    <text x="0" y="18" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#94a3b8">Scaling infrastructure across Python Forest networks</text>
   </g>
 
   <!-- Expedition Status Tag -->
@@ -4887,7 +4887,7 @@
   <text x="0" y="8" font-family="'Space Grotesk', sans-serif" font-weight="900" font-size="15" fill="#4EC7E8">TRAVEL LOG / BIO</text>
   
   <!-- Bio lines -->
-  <text x="0" y="32" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#f1f5f9">Scaling infrastructure across JS Kingdom networks</text>
+  <text x="0" y="32" font-family="'Inter', sans-serif" font-weight="600" font-size="13" fill="#f1f5f9">Scaling infrastructure across Python Forest networks</text>
   
   <!-- Location Details tag -->
   <g transform="translate(0, 68)">
@@ -4925,7 +4925,7 @@
     <!-- Commits / Altitude -->
     <g transform="translate(0, 0)">
       <text x="0" y="0" font-family="'Inter', sans-serif" font-weight="700" font-size="10" fill="#94a3b8" letter-spacing="1">ALTITUDE (COMMITS)</text>
-      <text x="0" y="20" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="15" fill="#ffffff">111 m</text>
+      <text x="0" y="20" font-family="'JetBrains Mono', monospace" font-weight="700" font-size="15" fill="#ffffff">113 m</text>
     </g>
     
     <!-- Stars / Expedition -->
