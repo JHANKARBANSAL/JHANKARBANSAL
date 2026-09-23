@@ -1,317 +1,183 @@
-<p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Jhankar Bansal GitHub Banner" />
-</p>
-
-<h1 align="center">Hi, I'm Jhankar 👋</h1>
+<h1 align="center">Hi, I'm Jhankar Bansal 👋</h1>
 
 <p align="center">
-  <b>Software Engineering • Backend Systems • Generative AI</b>
+  Computer Science Engineering Student • Full Stack Developer • AI/ML Enthusiast
 </p>
 
-<p align="center">
-  Building full-stack products, intelligent systems, and exploring scalable backend architecture.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JHANKARBANSAL&label=PROFILE+VIEWS&color=ff6b35&style=for-the-badge" alt="Profile Views" />
-</p>
 ---
 
-## 👨‍💻 About Me
+## 👩‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering at **BML Munjal University**
-* ⚙️ Interested in **Backend Engineering, System Design & Distributed Systems**
-* 🤖 Exploring **Generative AI, RAG and Agentic AI**
-* 🧠 Strengthening **Java, OOP, DBMS, SQL and Data Structures & Algorithms**
-* 🚀 Building real-world projects rather than isolated demos
-* 🌱 Interested in contributing to **Open Source**
-
-> I like understanding **why systems work**, not just making them work.
+- 🎓 B.Tech in Computer Science & Engineering
+- 🏫 BML Munjal University
+- 📅 Graduation Year: 2027
+- 💻 Interested in Full Stack Development and AI Development
+- 🤖 Currently exploring AI Agents, RAG, LLM applications and intelligent systems
+- 🚀 Active participant in hackathons and project-based development
+- 📚 Strong focus on DSA, OOP, DBMS and software development fundamentals
 
 ---
 
-## 🎯 Engineering Interests
+## ⚡ Expertise
 
-```text
-⚙️ Backend Engineering
-🏗️ System Design
-🌐 Distributed Systems
-🤖 Generative AI
-🧠 Retrieval-Augmented Generation
-🌱 Open Source
-```
-
----
-
-## 🚧 Currently Building
-
-### 🎙️ CrackProof
-
-**Adaptive AI Interview Depth Engine**
-
-CrackProof is designed to move beyond simple mock-interview scoring.
-
-Instead of asking isolated questions, it evaluates a candidate's answer, identifies conceptual gaps and dynamically generates deeper follow-up questions.
-
-```text
-Question
-   │
-   ▼
-Voice Answer
-   │
-   ▼
-Whisper STT
-   │
-   ▼
-LLM Evaluation Engine
-   │
-   ▼
-Concept Gap Detection
-   │
-   ▼
-Probe Selection
-   │
-   ▼
-Dynamic Follow-up Question
-```
-
-**Core work**
-
-* 🎤 Voice-based candidate responses
-* 🧠 Structured answer evaluation
-* 🔍 Concept-gap detection
-* 🎯 Adaptive follow-up probes
-* 📊 Interview-depth analysis
-
-**Tech**
-
-`Python` `Whisper` `Gemini` `Pydantic` `LLM APIs`
+- Full Stack Web Development
+- Backend Development & REST APIs
+- AI/ML Application Development
+- Retrieval-Augmented Generation (RAG)
+- LLM-based Applications
+- Authentication & Authorization
+- Database Design
+- API Integration
+- Problem Solving & Data Structures
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔄 CampusShare
-
-**Peer-to-Peer Campus Borrowing & Lending Platform**
-
-A campus platform that allows students to borrow and lend items safely while building trust through identity verification and reputation signals.
-
-```text
-Student
-   │
-   ▼
-Frontend
-   │
-   ▼
-REST API
-   │
-   ├───────────────┐
-   ▼               ▼
-Authentication   Request System
-   │               │
-   ▼               ▼
- User Data       Item Data
-        \         /
-         \       /
-          ▼     ▼
-          MongoDB
-```
-
-**Features**
-
-* 🔐 Authentication & authorization
-* 📦 Borrowing and lending requests
-* 🧑‍🎓 Student identity verification
-* ⭐ Trust and reputation system
-* 🔌 REST API architecture
-
-**Tech**
-
-`JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `REST APIs`
-
----
-
-### 🎙️ CrackProof
-
-**AI Interview System for Testing Actual Conceptual Depth**
-
-Instead of only marking answers correct or incorrect, CrackProof analyzes:
-
-```text
-Correctness
-     │
-Concept Coverage
-     │
-Missing Concepts
-     │
-Misconceptions
-     │
-Reasoning Depth
-     │
-Adaptive Probe
-```
-
-The goal is to expose the difference between:
-
-```text
-"I know the definition"
-
-        vs
-
-"I actually understand the concept."
-```
-
----
-
-## 🤖 AI Engineering
-
-Currently exploring and building with:
-
-```text
-LLM Applications
-      │
-      ├── RAG Pipelines
-      │
-      ├── Vector Databases
-      │
-      ├── Embeddings
-      │
-      ├── AI Agents
-      │
-      └── Agentic Workflows
-```
-
----
-
-## 🛠️ Engineering Toolkit
+## 🛠️ Skills & Technologies
 
 ### Languages
 
-`Java` `Python` `JavaScript` `C++`
-
-### Backend
-
-`Node.js` `Express.js` `REST APIs` `FastAPI`
+`JavaScript` `Python` `C++` `Java` `SQL`
 
 ### Frontend
 
-`React` `HTML` `CSS` `JavaScript`
+`React.js` `HTML5` `CSS3`
+
+### Backend
+
+`Node.js` `Express.js` `FastAPI` `REST APIs`
 
 ### Databases
 
-`MongoDB` `PostgreSQL` `MySQL`
+`MongoDB` `MySQL` `PostgreSQL` `Supabase`
 
-### AI / LLM
+### AI / ML
 
-`LangChain` `RAG` `Vector Databases` `LLM APIs` `Whisper`
+`LLMs` `RAG` `LangChain` `LangGraph` `Pandas` `NumPy` `PyTorch Geometric`
 
-### Developer Tools
+### Tools & Platforms
 
-`Git` `GitHub` `Postman` `Linux` `VS Code`
-
----
-
-## 🧠 What I'm Learning
-
-```text
-Data Structures & Algorithms
-            │
-            ▼
-        Java / OOP
-            │
-            ▼
-          DBMS
-            │
-            ▼
-    Backend Engineering
-            │
-            ▼
-      System Design
-            │
-            ▼
- Distributed Systems
-```
-
-Alongside:
-
-```text
-Generative AI → RAG → Agents → Agentic Systems
-```
+`Git` `GitHub` `Postman` `Linux` `Render` `Cloudinary`
 
 ---
 
-## 🌱 Open Source
+# 🚀 Featured Projects
 
-I'm currently learning how to contribute meaningfully to open-source projects by:
+## 🧠 CrackProof — AI Interview Depth Agent
 
-* Understanding existing codebases
-* Reproducing issues locally
-* Working on scoped issues
-* Writing maintainable fixes
-* Creating useful pull requests
+An AI-powered interview system designed to evaluate how deeply a candidate understands technical concepts instead of relying only on simple right/wrong answers.
 
----
+### Key Features
+- AI-generated interview questions
+- Voice-based answers
+- Speech-to-text using Whisper
+- LLM-based answer evaluation
+- Dynamic follow-up questions
+- Detection of misconceptions and knowledge gaps
+- Structured interview feedback
 
-## 🐸 My Coding Journey
+### Tech Stack
 
-Coming soon:
-
-**Jhankar's Commit Frog**
-
-```text
-🐸  →  🟩  →  🟩  →  🟩  →  🐸
-
-Every green square represents progress.
-Every commit moves the frog forward.
-```
-
-This section will use my actual GitHub contribution history and update automatically.
+`Python` `Gemini API` `Whisper` `Pydantic` `AI/LLM`
 
 ---
 
-## 📈 GitHub Activity
+## 🤝 CampusShare — Campus Borrow & Lend Platform
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
-    alt="Jhankar's GitHub Stats"
-  />
-</p>
+A peer-to-peer platform that allows university students to request, borrow and lend items securely within their campus community.
 
----
+### Key Features
+- User authentication
+- Item/request posting
+- Borrower and lender workflow
+- Trust score system
+- User profiles
+- Ratings and borrowing history
+- Privacy-focused contact sharing
 
-## 💡 Developer Philosophy
+### Tech Stack
 
-```text
-Build.
-Break.
-Understand.
-Improve.
-Repeat.
-```
-
-> Good engineering is not about writing the most code.
-> It's about understanding the problem deeply enough to write the right code.
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
 ---
 
-## 🤝 Connect With Me
+## 🌙 CycleSense — AI-Powered Health Companion
 
-<p align="center">
+An intelligent health companion designed around conversational interaction, adaptive check-ins and personalized insights.
+
+### Key Features
+- Voice and text-based assistant
+- Personalized health memory
+- Adaptive check-ins
+- Symptom and mood tracking
+- Cycle insights
+- Passive health data integration
+
+### Tech Stack
+
+`React Native` `FastAPI` `Supabase` `LLMs` `Whisper`
+
+---
+
+## 📊 PrepGrounded — Interview Question Intelligence Platform
+
+A data-driven interview preparation system built using a curated corpus of real interview questions.
+
+### Key Features
+- Company-specific interview question dataset
+- Recency-aware question ranking
+- Adaptive retrieval
+- Historical interview analysis
+- Evaluation using retrieval metrics
+
+### Tech Stack
+
+`Python` `Node.js` `Express.js` `React` `Data Analysis`
+
+---
+
+## 🧬 Drug Repurposing using Graph Neural Networks
+
+A machine learning project exploring drug repurposing using biomedical knowledge graphs.
+
+### Key Features
+- Drug Repurposing Knowledge Graph
+- GraphSAGE
+- Link Prediction
+- Graph-based biomedical analysis
+
+### Tech Stack
+
+`Python` `PyTorch Geometric` `Graph Neural Networks`
+
+---
+
+## 🏆 Highlights
+
+- 🥇 1st Place — TechSparX.I 2025 Innovation Challenge
+- 💡 Built multiple Full Stack and AI-based projects
+- 🚀 Active participant in hackathons
+- 🧠 Exploring Agentic AI, RAG and intelligent application development
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  LinkedIn
 </a>
+
+&nbsp; • &nbsp;
 
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  Email
 </a>
 
-</p>
+&nbsp; • &nbsp;
 
----
+<a href="YOUR_PORTFOLIO_URL">
+  Portfolio
+</a>
 
-<p align="center">
-  <b>⚙️ Building systems. Learning deeply. Improving continuously.</b>
 </p>
