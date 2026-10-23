@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <h1 align="center">Hi, I'm Jhankar Bansal 👋</h1>
 
 <p align="center">
@@ -181,3 +182,62 @@ A machine learning project exploring drug repurposing using biomedical knowledge
 </a>
 
 </p>
+=======
+<!-- Replace any project descriptions or technologies if your repositories have changed. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Jhankar Bansal — Full-stack Developer, Software Engineer, AI/ML Engineer, Frontend Developer and Backend Developer" src="./dark.svg" width="100%">
+</picture>
+
+# Hi, I'm Jhankar Bansal 👋
+
+I'm a computer science student interested in building practical software across **full-stack development, frontend and backend engineering, and AI/ML**.
+
+## Focus areas
+
+- **Software engineering:** problem-solving, data structures, APIs, and application architecture
+- **Full-stack development:** React, Node.js, Express, REST APIs, and databases
+- **AI/ML:** LLM-powered applications, retrieval-augmented generation (RAG), and AI-assisted developer tools
+
+## Featured projects
+
+### CampusShare
+A campus borrowing-and-lending platform designed to help students request, list, and manage shared items.
+
+### CrackProof
+An AI-assisted mock interview tool focused on identifying calibration gaps and supporting structured interview practice.
+
+### PrepGrounded
+A retrieval-augmented interview preparation project that grounds responses in collected interview evidence.
+
+### CycleSense
+A mobile-focused project built with React Native, FastAPI, and Supabase.
+
+## Tech stack
+
+**Languages:** JavaScript, Python, Java, C++, SQL  
+**Frontend:** React, HTML, CSS  
+**Backend:** Node.js, Express, REST APIs  
+**Databases:** MongoDB, MySQL, Supabase  
+**AI/ML & data:** Gemini API, Pandas, NumPy, PyTorch Geometric  
+**Tools:** Git, GitHub, Postman, Cloudinary, Render
+
+## Currently interested in
+
+- Building reliable full-stack applications
+- Applying AI/ML to useful product workflows
+- Strengthening software engineering fundamentals and problem-solving
+
+## Connect
+
+Add your verified profile links here when ready:
+
+- GitHub: `https://github.com/YOUR-USERNAME`
+- LinkedIn: `YOUR-LINKEDIN-URL`
+- Portfolio: `YOUR-PORTFOLIO-URL`
+
+---
+
+*This README uses only profile details available so far. Please verify each project description and technology against the current repositories before publishing.*
+>>>>>>> Stashed changes

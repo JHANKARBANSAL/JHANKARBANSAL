@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="GitHub profile banner for Jhankar Bansal, focused on full-stack software engineering, AI and machine learning, frontend and backend development.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4F8FC"/>
+      <stop offset="0.55" stop-color="#EAF2FB"/>
+      <stop offset="1" stop-color="#F4F8FC"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7156D9"/>
+      <stop offset="0.52" stop-color="#087EAD"/>
+      <stop offset="1" stop-color="#078A6C"/>
+      <animate attributeName="x1" values="0;0.25;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#087EAD" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#087EAD" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#DDE8F3" stroke-width="0.7" opacity=".72"/>
+    </pattern>
+    <clipPath id="frame"><rect x="14" y="14" width="1152" height="582" rx="24"/></clipPath>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect x="14" y="14" width="1152" height="582" rx="24" fill="url(#bg)"/>
+    <rect x="14" y="14" width="1152" height="582" fill="url(#grid)" opacity=".7"/>
+    <circle cx="190" cy="135" r="260" fill="url(#glow)"/>
+    <circle cx="1030" cy="530" r="300" fill="url(#glow)"/>
+    <rect x="14" y="14" width="1152" height="4" fill="url(#accent)"/>
+    <!-- terminal chrome -->
+    <rect x="34" y="34" width="1112" height="48" rx="12" fill="#FFFFFF" stroke="#CBD9E8"/>
+    <circle cx="56" cy="58" r="5" fill="#FF6B6B"/>
+    <circle cx="74" cy="58" r="5" fill="#F6C85F"/>
+    <circle cx="92" cy="58" r="5" fill="#52D69A"/>
+    <text x="118" y="63" fill="#52677F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">jhankar@profile:~ / README.md</text>
+    <text x="1118" y="63" text-anchor="end" fill="#078A6C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">● PROFILE READY</text>
+    <!-- left visual panel -->
+    <rect x="34" y="100" width="400" height="472" rx="18" fill="#FFFFFF" fill-opacity=".88" stroke="#CBD9E8"/>
+    <text x="58" y="132" fill="#087EAD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">VISUAL.MAP</text>
+    <text x="408" y="132" text-anchor="end" fill="#52677F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">01 / 02</text>
+    <!-- abstract terminal-inspired monogram; no photo supplied -->
+    <rect x="83" y="160" width="302" height="238" rx="14" fill="#F7FAFE" stroke="#CBD9E8"/>
+    <path d="M112 193 H356 M112 365 H356" stroke="#CBD9E8" stroke-width="1" stroke-dasharray="3 6"/>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" text-anchor="middle" filter="url(#softGlow)">
+      <text x="234" y="277" font-size="78" fill="url(#accent)">JB</text>
+    </g>
+    <text x="234" y="309" text-anchor="middle" fill="#52677F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">BUILD · LEARN · SHIP</text>
+    <rect x="105" y="338" width="258" height="2" rx="1" fill="url(#accent)" opacity=".8">
+      <animate attributeName="width" values="72;258;72" dur="7s" repeatCount="indefinite"/>
+    </rect>
+    <text x="58" y="435" fill="#52677F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">$ whoami</text>
+    <text x="58" y="462" fill="#102033" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">Jhankar Bansal</text>
+    <text x="58" y="490" fill="#087EAD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">Full-stack · Software Engineering</text>
+    <text x="58" y="515" fill="#52677F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">AI/ML · Frontend · Backend</text>
+    <text x="58" y="548" fill="#078A6C" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">$ build --ship <tspan>
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+      ▋
+    </tspan></text>
+    <!-- right system info -->
+    <rect x="454" y="100" width="692" height="472" rx="18" fill="#FFFFFF" fill-opacity=".9" stroke="#CBD9E8"/>
+    <text x="482" y="132" fill="#087EAD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="2">SYSTEM.INFO</text>
+    <text x="1118" y="132" text-anchor="end" fill="#52677F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">PROFILE.SVG</text>
+    <text x="482" y="174" fill="#52677F" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">jhankar@developer:~$ ./profile.sh</text>
+    <text x="482" y="218" fill="#102033" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="31" font-weight="750">Jhankar Bansal</text>
+    <text x="482" y="248" fill="#087EAD" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="17" font-weight="600">Full-stack Developer · Software Engineer</text>
+    <text x="482" y="274" fill="#52677F" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">AI/ML · Frontend Development · Backend Development</text>
+    <line x1="482" y1="296" x2="1118" y2="296" stroke="#CBD9E8"/>
+    <text x="482" y="325" fill="#7156D9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">CORE TOOLKIT</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">
+      <rect x="482" y="341" width="93" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="528.5" y="360" text-anchor="middle" fill="#102033">JavaScript</text>
+      <rect x="585" y="341" width="74" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="622" y="360" text-anchor="middle" fill="#102033">Python</text>
+      <rect x="669" y="341" width="62" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="700" y="360" text-anchor="middle" fill="#102033">Java</text>
+      <rect x="741" y="341" width="59" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="770.5" y="360" text-anchor="middle" fill="#102033">C++</text>
+      <rect x="810" y="341" width="62" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="841" y="360" text-anchor="middle" fill="#102033">React</text>
+      <rect x="882" y="341" width="83" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="923.5" y="360" text-anchor="middle" fill="#102033">Node.js</text>
+      <rect x="975" y="341" width="89" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="1019.5" y="360" text-anchor="middle" fill="#102033">MongoDB</text>
+      <rect x="482" y="379" width="76" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="520" y="398" text-anchor="middle" fill="#102033">Express</text>
+      <rect x="568" y="379" width="67" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="601.5" y="398" text-anchor="middle" fill="#102033">MySQL</text>
+      <rect x="645" y="379" width="75" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="682.5" y="398" text-anchor="middle" fill="#102033">Gemini API</text>
+      <rect x="730" y="379" width="80" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="770" y="398" text-anchor="middle" fill="#102033">REST APIs</text>
+      <rect x="820" y="379" width="74" height="30" rx="8" fill="#F7FAFE" stroke="#CBD9E8"/><text x="857" y="398" text-anchor="middle" fill="#102033">Git</text>
+    </g>
+    <line x1="482" y1="431" x2="1118" y2="431" stroke="#CBD9E8"/>
+    <text x="482" y="458" fill="#7156D9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.5">SELECTED BUILDS</text>
+    <circle cx="490" cy="481" r="3" fill="#087EAD"/>
+    <text x="503" y="486" fill="#102033" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="650">CampusShare</text>
+    <text x="620" y="486" fill="#52677F" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13">Campus borrowing &amp; lending platform</text>
+    <circle cx="490" cy="509" r="3" fill="#7156D9"/>
+    <text x="503" y="514" fill="#102033" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="650">CrackProof</text>
+    <text x="600" y="514" fill="#52677F" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13">AI-assisted mock interview calibration</text>
+    <circle cx="490" cy="537" r="3" fill="#078A6C"/>
+    <text x="503" y="542" fill="#102033" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="650">PrepGrounded</text>
+    <text x="620" y="542" fill="#52677F" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13">RAG-based interview evidence tool</text>
+    <rect x="14" y="14" width="1152" height="582" rx="24" fill="none" stroke="#CBD9E8" stroke-width="1.2"/>
+  </g>
+</svg>
